@@ -2,7 +2,7 @@ import telebot
 import func
 
 
-token = '5928963539:AAEdBTpMcckQg_l1ZtGi-Ju2VTDq5lTlkU0'
+token = ''
 
 bot = telebot.TeleBot(token)
 
